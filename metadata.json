@@ -1,0 +1,6 @@
+{
+  "name": "Earner Community",
+  "description": "Professional earning & referral community platform with dark black + orange premium fintech style dashboard & built-in admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
